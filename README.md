@@ -1,4 +1,5 @@
 ## DEMO
+![arduino-demo](https://media.giphy.com/media/h5Fo0G4rogw8O39o4W/giphy-downsized-large.gif)
 
 ## FSP - FASHION TECHNOLOGY x LILYPAD 
 Fashion Technology is an up and coming industry that combines technology and clothing. At first, most people associate it with ‘wearables’ like Fitbit or Apple Watch, but it is much more than that! <br/>
